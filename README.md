@@ -9,3 +9,7 @@ React Flow frontend + FastAPI backend for pipeline creation and DAG validation.
 
 Frontend: http://localhost:3000  
 Backend: http://127.0.0.1:8000
+
+## Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1wwLsKN4z9cO-x8InCS0IZ0InskRaQoG4/view?usp=drive_link)
